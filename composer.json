@@ -1,9 +1,9 @@
 {
-    "name": "dianwoung/large-file-upload",
+    "name": "83567599/large-file-upload",
     "description": "An extension of laravel-admin for uploading large files",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/Dianwoung/large-file-upload",
+    "homepage": "https://github.com/83567599/large-file-upload",
     "license": "MIT",
     "authors": [
         {
