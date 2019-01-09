@@ -167,7 +167,7 @@ var AetherUpload = {
 
                 _this.progressBarDom.css("width", "100%");
 
-                _this.savedPath = rst.savedPath;
+                _this.savedPath = this.fileName;
 
                 _this.savedPathDom.val(_this.savedPath);
 
@@ -247,7 +247,7 @@ var AetherUpload = {
 
                     clearInterval(_this.uploadChunkInterval);
 
-                    _this.savedPath = rst.savedPath;
+                    _this.savedPath = this.fileName;
 
                     _this.savedPathDom.val(_this.savedPath);
 
